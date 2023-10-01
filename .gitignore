@@ -1,0 +1,10 @@
+.vscode
+data/
+models/
+.ipynb_checkpoints
+__pycache__
+caches/
+output/
+TDGAN.egg-info
+dist/
+build/
